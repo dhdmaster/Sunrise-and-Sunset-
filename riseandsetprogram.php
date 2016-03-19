@@ -1,7 +1,7 @@
 <?php 
 
 	// Filename: riseandsetprogram.php
-	// Programmer: Thomas Garrett
+	// Author: Thomas Garrett
 	// Purpose: Create and display a program to show the sunrise and sunset date
 	
 	echo "EST Sunrise and Date - " . "<br>";
